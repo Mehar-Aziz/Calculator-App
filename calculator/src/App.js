@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import Home from './components/Home';
+import Home from './components';
 import { Link, Route, Routes } from 'react-router-dom';
 import Calculator from './components/Calculator';
 import Quote from './components/Quote';
